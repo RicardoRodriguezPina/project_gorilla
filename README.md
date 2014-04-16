@@ -1,4 +1,4 @@
 project_gorilla
 ===============
 
-Educational Project usin Kivy
+Educational Project using Kivy
